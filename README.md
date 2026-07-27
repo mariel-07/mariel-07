@@ -1,5 +1,5 @@
 # Mariel Ramos Gomez
-### Software & Artificial Intelligence Engineering Student
+### Estudiante de Ingeniería de Software e Inteligencia Artificial
 
 Desarrolladora orientada al diseño de soluciones robustas, arquitectura de software y gestión eficiente de sistemas de bases de datos. Con experiencia en la estructuración de lógica backend y la implementación de metodologías ágiles para asegurar la entrega óptima de proyectos tecnológicos.
 
